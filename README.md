@@ -58,7 +58,6 @@ plantas regadas adecuadamente cada que necesiten agua.
 |3.3| Yo como usuario quiero que el dispositivo active un sonido de alarma para saber cuando regar la planta. | Semi-Alta | 1 mes | Cuando la tierra de la planta este seca ver si hace el sonido. | Victor |
 |3.4| Yo como usuario quiero que almacene la información cada vez que se riega la planta. | Semi-Alta | 2 meses | Checar en el dispositivo el registro de las detecciones | Jose Manuel y Miguel Ángel |
 |3.5| Yo como usuario quiero que el dispositivo sepa cuanta agua necesita la planta | Semi-Alta | 2 meses | A través de un dispositivo móvil | Brandon y Victor |
-|3.6|                     |           |            |               |             |
 
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
