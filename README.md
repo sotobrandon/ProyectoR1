@@ -1,9 +1,9 @@
 # ProyectoR1
 ## Integrantes 
--Brandon Jesús Soto Rangel
--Miguel Ángel Anastasio Nava
--José Manuel Sánchez Arredondo
--Victor Javier Otero
+- Brandon Jesús Soto Rangel
+- Miguel Ángel Anastasio Nava
+- José Manuel Sánchez Arredondo 
+- Victor Javier Otero
 
 ## Objetivos generales 
 El objetivo general de este proyecto es poder implementar un sistema de riego de cannabis , por lo que se propondra es mantener estas
@@ -19,6 +19,12 @@ plantas regadas adecuadamente cada que necesiten agua.
 - 7.- Liberación de proyecto. 
 
 ## Tabla de software utilizada 
+| identificacion | software | Versión | tipo |
+
+## Tabla con el hardware utilizado
+| identificacion | Componente | Descripción | Imagen | Cantidad | Costo total |
+|----|------------|------------|--------|-------- - -|------------|
+
 |2.1| Esp32 | Es la denominación de una familia de chips SoC de bajo costo y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrado. |![imagen](https://user-images.githubusercontent.com/106613839/217649811-9335a9c7-5a4c-4813-8f17-e03488f52967.png)| 1 | $150 |
 |2.2| cables | Clabes por los cuales se harán conexiones entre sensores, actuadores y la esp32|![image](https://user-images.githubusercontent.com/106613839/217650692-88574d94-022c-44fe-a183-58dd5121c26a.png)| 30           | $ 30             |
 |2.3| foco con enchufe | Foco el cual será controlado para iluminar una zona. |![imagen](https://user-images.githubusercontent.com/106613839/217650095-d221a148-1c63-45fc-8211-0f1e97fa8816.png)| 1 | $80 |
