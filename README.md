@@ -33,7 +33,8 @@ plantas regadas adecuadamente cada que necesiten agua.
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 |2.1| Esp32 | Es la denominación de una familia de chips SoC de bajo costo y consumo de energía, con tecnología Wi-Fi y Bluetooth de modo dual integrado. | ![imagen](https://user-images.githubusercontent.com/106613839/217649811-9335a9c7-5a4c-4813-8f17-e03488f52967.png) | 1 | $150 |
-|2.2| Cables | Clabes por los cuales se harán conexiones entre sensores, actuadores y la esp32. | [image](https://user-images.githubusercontent.com/106613839/217650692-88574d94-022c-44fe-a183-58dd5121c26a.png) | 30 | $30 |
+|2.2| Cables | Clabes por los cuales se harán conexiones entre sensores, actuadores y la esp32. | ![image](https://user-images.githubusercontent.com/107832766/219300661-c072d4bf-4e0b-435e-9f50-e91122b55730.png)
+ | 30 | $30 |
 |2.3| Foco con enchufe | Foco el cual será controlado para iluminar una zona. | ![imagen](https://user-images.githubusercontent.com/106613839/217650095-d221a148-1c63-45fc-8211-0f1e97fa8816.png) | 1 | $80 |
 |2.4| Sensor de humedad | Cuenta con dos microsensores calibrados en función de la humedad relativa del área o la zona. | ![image](https://user-images.githubusercontent.com/107832766/219300209-819e8643-82d0-460d-a9a9-a0341bca57d3.png)
  | 2 | $57 |
